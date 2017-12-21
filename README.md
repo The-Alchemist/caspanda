@@ -17,7 +17,7 @@ caspanda
 ========
 Pandas interface for Cassandra.
 
-##What is it?
+## What is it?
 **caspanda** is a Python module combines **Apache Cassandra** with **Python's Pandas** module... aka **caspanda**. Its
 overall goal is to give the user the ability to seperate Cassandra's NoSQL backend from the user's front end experience.
 Ultimately, it hopes to provide Data Scientists who use Pandas the ability to easily use Cassandra.
